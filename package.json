@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/iamharshil/Express-Snippets"
   },
+  "icon": "icon.png",
   "categories": [
     "Snippets"
   ],
