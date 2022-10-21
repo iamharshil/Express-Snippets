@@ -1,0 +1,24 @@
+{
+  "name": "express-snippets",
+  "displayName": "Express Snippets",
+  "description": "A collection of express.js for quick start of development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamharshil/Express-Snippets"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "express snippets": {
+    "prefix": "!exp",
+    "body": ["<table>"],
+    "description": "basic Express js snippet"
+  }
+}
